@@ -10,3 +10,5 @@ tofu --version
 terraform --version
 ansible --version
 python --version
+
+echo $myname
